@@ -26,7 +26,6 @@ This project focuses on optimizing Sysmon event logging and integrating telemetr
 - Sysmon (System Monitor)
 - Wazuh SIEM
 - Windows Event Viewer
-- Sigma rules (optional)
 - YAML configuration files
 
 ## Project Workflow
@@ -49,7 +48,6 @@ This project focuses on optimizing Sysmon event logging and integrating telemetr
 ## Files Included
 - Sysmon configuration file
 - Wazuh integration notes
-- Screenshots (if applicable)
 
 ## Full Project Documentation
 You can view the full detection engineering folder here:
