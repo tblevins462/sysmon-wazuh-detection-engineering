@@ -35,3 +35,7 @@ This project focuses on optimizing Sysmon event logging and integrating telemetr
 ## Files Included
 - Sysmon configuration file
 - Link to Published Article
+
+## Full Project Documentation
+You can view the full detection engineering folder here:
+https://drive.google.com/drive/folders/1jPmA75p5zA4aNhNbL1eaH4pJTl00sWEN
